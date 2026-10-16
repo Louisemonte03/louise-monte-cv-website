@@ -82,7 +82,7 @@ export const content = {
     educationDescription: 'Ik ontwikkel mijn kennis van ontwerp, digitale producten en de samenwerking tussen creativiteit en techniek.',
     skillsLabel: 'VAARDIGHEDEN & TOOLS', skillsTitle: 'Mijn toolkit.',
     skills: [
-      { category: 'Focus', items: ['UX/UI design', 'Interacties ontwerpen', 'Prototyping', 'Structuur aanbrengen', 'Conversie verbeteren'] },
+      { category: 'Focus', items: ['AI', 'UX/UI design', 'Interacties ontwerpen', 'Prototyping', 'Structuur aanbrengen', 'Conversie verbeteren'] },
       { category: 'Code', items: ['HTML', 'SCSS', 'JavaScript (basis)'] },
       { category: 'Tools', items: ['Figma', 'Magento', 'GitHub', 'VS Code'] }
     ],
@@ -162,7 +162,7 @@ export const content = {
     educationDescription: 'I’m developing my understanding of design, digital products and the relationship between creativity and technology.',
     skillsLabel: 'SKILLS & TOOLS', skillsTitle: 'My toolkit.',
     skills: [
-      { category: 'Focus', items: ['UX/UI design', 'Interaction design', 'Prototyping', 'Creating structure', 'Improving conversion'] },
+      { category: 'Focus', items: ['AI', 'UX/UI design', 'Interaction design', 'Prototyping', 'Creating structure', 'Improving conversion'] },
       { category: 'Code', items: ['HTML', 'SCSS', 'JavaScript (basic)'] },
       { category: 'Tools', items: ['Figma', 'Magento', 'GitHub', 'VS Code'] }
     ],
